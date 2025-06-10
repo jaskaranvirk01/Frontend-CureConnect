@@ -34,7 +34,7 @@ const Navbar = () => {
                     <li className="py-1">CONTACT</li>
                     <hr className="border-none outline-none h-0.5 bg-[#5f6fff] w-3/5 m-auto hidden" />
                 </NavLink>
-                <NavLink to=`${backendUrl}/admin-login`>
+                <NavLink to=`https://backend-cureconnect.onrender.com/admin-login`>
                     <li className="py-1 px-4 border border-stone-400">ADMIN LOGIN</li>
                     <hr className="border-none outline-none h-0.5 w-3/5 m-auto hidden" />
                 </NavLink>
